@@ -1,7 +1,7 @@
 <h1>PRODIGY_CS_02</h1>
 <h1 align="center" id="title">🔐 Image Encryption GUI with Python</h1>
 
-<p align="center"><[img src="https://socialify.git.ci/deepak-3693/PRODIGY_CS_02/image?language=1&amp;name=1&amp;owner=1&amp;pattern=Signal&amp;stargazers=1&amp;theme=Auto" alt="project-image"](https://socialify.git.ci/deepak-3693/PRODIGY_CS_02/image?font=Rokkitt&language=1&name=1&owner=1&pattern=Signal&stargazers=1&theme=Auto)></p>
+<p align="center"><img src="https://socialify.git.ci/deepak-3693/PRODIGY_CS_02/image?language=1&amp;name=1&amp;owner=1&amp;pattern=Signal&amp;stargazers=1&amp;theme=Auto" alt="project-image"></p>
 
 <p id="description">This project is a GUI-based Image Encryption and Decryption Tool built using Python specifically utilizing Tkinter for the graphical interface and Pillow for image processing. The purpose of this project is to provide an easy-to-use platform for encrypting and decrypting images at the pixel level using a simple encryption technique (similar to a Caesar cipher).</p>
 
