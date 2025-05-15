@@ -32,7 +32,7 @@ pip install pillow
 <p>3. Clone the repository:</p>
 
 ```
-git clone https://github.com/deepak-3693/PRODIGY_CS_02.git cd PRODIGY_CS_02
+git clone https://github.com/deepak-3693/PRODIGY_CS_02
 ```
 
 <p>4. Run the script</p>
